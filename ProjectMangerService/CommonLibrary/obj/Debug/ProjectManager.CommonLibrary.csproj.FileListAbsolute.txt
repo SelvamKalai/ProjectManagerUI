@@ -1,0 +1,5 @@
+C:\Users\Admin\documents\visual studio 2017\Projects\ProjectMangerService\CommonLibrary\bin\Debug\CommonLibrary.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\ProjectMangerService\CommonLibrary\bin\Debug\CommonLibrary.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\ProjectMangerService\CommonLibrary\obj\Debug\CommonLibrary.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\ProjectMangerService\CommonLibrary\obj\Debug\CommonLibrary.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\ProjectMangerService\CommonLibrary\obj\Debug\ProjectManager.CommonLibrary.csprojResolveAssemblyReference.cache
