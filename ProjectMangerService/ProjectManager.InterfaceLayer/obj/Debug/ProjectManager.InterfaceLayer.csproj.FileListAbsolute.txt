@@ -1,7 +1,0 @@
-C:\Users\Admin\documents\visual studio 2017\Projects\ProjectMangerService\ProjectManager.InterfaceLayer\bin\Debug\ProjectManager.InterfaceLayer.dll
-C:\Users\Admin\documents\visual studio 2017\Projects\ProjectMangerService\ProjectManager.InterfaceLayer\bin\Debug\ProjectManager.InterfaceLayer.pdb
-C:\Users\Admin\documents\visual studio 2017\Projects\ProjectMangerService\ProjectManager.InterfaceLayer\bin\Debug\CommonLibrary.dll
-C:\Users\Admin\documents\visual studio 2017\Projects\ProjectMangerService\ProjectManager.InterfaceLayer\bin\Debug\CommonLibrary.pdb
-C:\Users\Admin\documents\visual studio 2017\Projects\ProjectMangerService\ProjectManager.InterfaceLayer\obj\Debug\ProjectManager.InterfaceLayer.csprojResolveAssemblyReference.cache
-C:\Users\Admin\documents\visual studio 2017\Projects\ProjectMangerService\ProjectManager.InterfaceLayer\obj\Debug\ProjectManager.InterfaceLayer.dll
-C:\Users\Admin\documents\visual studio 2017\Projects\ProjectMangerService\ProjectManager.InterfaceLayer\obj\Debug\ProjectManager.InterfaceLayer.pdb
